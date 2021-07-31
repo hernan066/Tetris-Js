@@ -5,7 +5,7 @@ var FPS = 50;
 
 //DIMENSIONES DEL CANVAS
 var anchoCanvas = 400;
-var altoCanvas = 600;
+var altoCanvas = 640;
 
 //DIMENSIONES REALES DE CADA CUADRO DEL TABLERO (40x40 pixels)
 var tamanyoFicha = 40;
